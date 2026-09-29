@@ -30,4 +30,13 @@ improving my HTML, CSS, JavaScript, and other web development skills.
 
 ## Original Project Links 
 
-* Single Page CV - https://roadmap.sh/projects/single-page-cv 
+1. Single Page CV - https://roadmap.sh/projects/single-page-cv 
+2. Basic HTML Website - https://roadmap.sh/projects/basic-html-website
+
+
+## References 
+
+* https://www.linkedin.com/help/linkedin/answer/a521928 
+* https://www.w3schools.com/tags/tag_meta.asp
+* https://medium.com/geekculture/open-graph-tags-in-html-101-5d470bbdb78a
+* 

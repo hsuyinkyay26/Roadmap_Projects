@@ -2,20 +2,18 @@
 
 ## About This Reposistory
 
-This repository contains my learning journey and practice projects
-while following my web development roadmap.
+This repository contains my learning journey and practice projects while following frontend roadmap in [roadmap.sh](https://roadmap.sh/dashboard).
 
-It includes lessons, exercises, and projects that I build while
-improving my HTML, CSS, JavaScript, and other web development skills.
+It includes lessons, exercises, and projects that I build while improving my HTML, CSS, JavaScript, and other web development skills.
 
 ## Used Technologies
 * HTML
 * CSS
 
 ## Features
-* Appropriate Semantic HTML
 * Adding Favicon
 * Adding SEO and Open Graph Mega Tags
+* Using appropriate Semantic HTML structure
 
 ## Currently Learning
 * Frontend Roadmap

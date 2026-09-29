@@ -8,10 +8,12 @@ while following my web development roadmap.
 It includes lessons, exercises, and projects that I build while
 improving my HTML, CSS, JavaScript, and other web development skills.
 
-## Technologies
+
+## Used Technologies
 
 * HTML
 * CSS
+
 
 ## Features
 
@@ -19,13 +21,15 @@ improving my HTML, CSS, JavaScript, and other web development skills.
 * Adding Favicon
 * Adding SEO and Open Graph Mega Tags
 
+
 ## Currently Learning
 
 * Frontend Roadmap
 
+
 ## Completed Projects
 
-* Single Page CV
+1. Single Page CV
 
 
 ## Original Project Links 
@@ -39,4 +43,3 @@ improving my HTML, CSS, JavaScript, and other web development skills.
 * https://www.linkedin.com/help/linkedin/answer/a521928 
 * https://www.w3schools.com/tags/tag_meta.asp
 * https://medium.com/geekculture/open-graph-tags-in-html-101-5d470bbdb78a
-* 
